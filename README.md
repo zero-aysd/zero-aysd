@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Aayush Soni
-- 👀 I’m interested in Machine Learning and Deep Learning Topivs
+- 👀 I’m interested in Machine Learning and Deep Learning Topics
 - 🌱 I’m currently learning Reinforcement Learning techniques
 - 📫 How to reach me ... aayushsoni159@gmail.com
 
